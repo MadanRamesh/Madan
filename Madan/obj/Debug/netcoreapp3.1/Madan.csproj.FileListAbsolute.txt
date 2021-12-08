@@ -1,0 +1,11 @@
+C:\Users\Yasteel\source\repos\Madan\Madan\bin\Debug\netcoreapp3.1\Madan.exe
+C:\Users\Yasteel\source\repos\Madan\Madan\bin\Debug\netcoreapp3.1\Madan.deps.json
+C:\Users\Yasteel\source\repos\Madan\Madan\bin\Debug\netcoreapp3.1\Madan.runtimeconfig.json
+C:\Users\Yasteel\source\repos\Madan\Madan\bin\Debug\netcoreapp3.1\Madan.runtimeconfig.dev.json
+C:\Users\Yasteel\source\repos\Madan\Madan\bin\Debug\netcoreapp3.1\Madan.dll
+C:\Users\Yasteel\source\repos\Madan\Madan\bin\Debug\netcoreapp3.1\Madan.pdb
+C:\Users\Yasteel\source\repos\Madan\Madan\obj\Debug\netcoreapp3.1\Madan.csprojAssemblyReference.cache
+C:\Users\Yasteel\source\repos\Madan\Madan\obj\Debug\netcoreapp3.1\Madan.AssemblyInfoInputs.cache
+C:\Users\Yasteel\source\repos\Madan\Madan\obj\Debug\netcoreapp3.1\Madan.AssemblyInfo.cs
+C:\Users\Yasteel\source\repos\Madan\Madan\obj\Debug\netcoreapp3.1\Madan.dll
+C:\Users\Yasteel\source\repos\Madan\Madan\obj\Debug\netcoreapp3.1\Madan.pdb
